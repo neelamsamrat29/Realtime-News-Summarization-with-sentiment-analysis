@@ -1,7 +1,7 @@
 **Real-Time News Summarization and Sentiment Analysis**
 This project fetches top headlines from the NewsAPI, summarizes the content of the articles, performs sentiment analysis, and stores the results in an SQLite database. The user can interact with the program to fetch new data, display summarized news, or filter news based on sentiment.
 
-Features
+**Features**
 
 Fetches top news from NewsAPI.
 
@@ -14,8 +14,8 @@ Stores the news, summaries, and sentiment in an SQLite database.
 Allows users to filter and display news based on sentiment.
 
 
-****Requirements
-**
+**Requirements**
+
 
 Python 3.x
 
